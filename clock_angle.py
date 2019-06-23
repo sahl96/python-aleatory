@@ -1,4 +1,4 @@
-""" This program can caluclate the smaller angle between he the hour and minute arms of a clock """
+""" This program can caluclate the smaller angle between the hour and minute arms of a clock """
 
 hour = int(input("Enter the hour (0-11): "))
 minute = int(input("Enter the minute (0-59): "))
