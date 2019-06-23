@@ -3,7 +3,7 @@ print('You have 3 attempts!')
 secret_word = "pneumonoultramicroscopicsilicovolcanoconiosis"
 guess = ""
 i = 0
-while guess != secret_word and i <= 2:  # != means not equal
+while guess != secret_word and i <= 2: 
     i = i + 1
     print("Attempt " + str(i))
     guess = input("Enter guess: ")
