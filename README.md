@@ -1,4 +1,4 @@
 # Python games
-An amalgam of random games just for fun.
+An amalgam of random programs just for fun.
 
-The games are completely seperate and it is just for the sake of fun and messing around with python.
+The programs are completely seperate and it is just for the sake of fun and training analytical skills. :) 
